@@ -52,10 +52,10 @@ function IndexNavbar () {
               target='_blank'
               id='navbar-brand'
             >
-              Neo
+              Nemo
             </NavbarBrand>
             <UncontrolledTooltip target='#navbar-brand'>
-              Designed by Neo. Coded by Infant Sabin
+              Designed by Nemo. Coded by Infant Sabin
             </UncontrolledTooltip>
             <button
               className='navbar-toggler navbar-toggler'
